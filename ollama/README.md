@@ -14,4 +14,4 @@ To integrate with the default [Ollama](https://www.home-assistant.io/integration
 
 ## Note
 
-By default the container runs with CPU acceleration only. If you are interesting in getting GPU support, please check the [Website of the Ollama Container Image](https://hub.docker.com/r/ollama/ollama).
+By default the container should be able to run with AMD/ROCm GPU support.
