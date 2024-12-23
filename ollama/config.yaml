@@ -1,7 +1,7 @@
 name: "Ollama-ROCM"
 description: "Get up and running with large language models"
 # renovate: datasource=github-tags depName=ollama/ollama
-version: "0.5.4-rocm"
+version: "rocm"
 slug: "ollama"
 arch:
   - amd64
