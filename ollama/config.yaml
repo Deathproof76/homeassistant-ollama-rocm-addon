@@ -1,7 +1,7 @@
 name: "Ollama-ROCM"
 description: "Get up and running with large language models"
 # renovate: datasource=github-tags depName=ollama/ollama
-version: "0.5.4.1"
+version: "0.5.4-rocm"
 slug: "ollama"
 arch:
   - amd64
@@ -12,7 +12,7 @@ environment:
   OLLAMA_KEEP_ALIVE: "-1"
 map:
   - config:rw
-image: docker.io/ollama/ollama:rocm
+image: docker.io/ollama/ollama
 init: false
 ingress: true
 ingress_port: 11434
