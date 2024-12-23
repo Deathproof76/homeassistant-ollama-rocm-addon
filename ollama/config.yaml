@@ -30,7 +30,6 @@ devices:
   - /dev/dri
 tmpfs: true
 usb: true
-video: true
 full_access: true
 privileged:
   - PERFMON
