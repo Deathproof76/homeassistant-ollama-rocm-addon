@@ -13,7 +13,7 @@
 
 A [Home Assistant](https://home-assistant.io) add-on repository for [Ollama](https://ollama.com) with ROCm support. I'm a noob just copypasting stuff from https://github.com/SirUli/homeassistant-ollama-addon and https://github.com/trooperthorn/homeassistant-ollama-addon together. So don't expect too much.
 
-[![Add Addon to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=[https://github.com/Deathproof76/homeassistant-ollama-rocm-addon]
+[![Add Addon to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/Deathproof76/homeassistant-ollama-rocm-addon)
 
 Please enter the subfolder [ollama](ollama/) for further details on the [CHANGELOG](ollama/CHANGELOG.md) and [README](ollama/README.md)
 
