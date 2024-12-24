@@ -34,7 +34,3 @@ devices:
   - /dev/kfd
   - /dev/dri
 tmpfs: true
-usb: true
-full_access: true
-privileged:
-  - PERFMON
